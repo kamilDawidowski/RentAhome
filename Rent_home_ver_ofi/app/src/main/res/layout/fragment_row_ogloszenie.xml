@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".RowOgloszenieFragment" >
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="20dp">
+
+            <Button
+                android:id="@+id/buttonRezerwacja"
+                android:layout_width="114dp"
+                android:layout_height="37dp"
+                android:layout_marginEnd="4dp"
+                android:text="@string/rezerwacja"
+                app:layout_constraintBottom_toBottomOf="@+id/imageView2"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/tekstCena"
+                app:layout_constraintVertical_bias="0.65" />
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="114dp"
+                android:layout_height="85dp"
+                android:layout_marginStart="4dp"
+                android:contentDescription="@string/imgDescriptionLogo"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.347"
+                tools:src="@tools:sample/avatars" />
+
+            <TextView
+                android:id="@+id/tekstTitle"
+                android:layout_width="131dp"
+                android:layout_height="25dp"
+                android:layout_marginStart="4dp"
+                android:layout_marginBottom="60dp"
+                android:padding="5dp"
+                android:textStyle="bold"
+                android:text="TextView"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/imageView2"
+                app:layout_constraintTop_toTopOf="@+id/imageView2" />
+
+            <TextView
+                android:id="@+id/Cena"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="116dp"
+                android:layout_marginBottom="24dp"
+                android:padding="5dp"
+                android:text="@string/cena"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toStartOf="@+id/imageView2" />
+
+            <TextView
+                android:id="@+id/tekstCena"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="TextView"
+                app:layout_constraintStart_toEndOf="@+id/Cena"
+                app:layout_constraintTop_toTopOf="@+id/Cena" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.cardview.widget.CardView>
+</LinearLayout>

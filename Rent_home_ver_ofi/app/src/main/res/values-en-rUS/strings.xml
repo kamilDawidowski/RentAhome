@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RENTaHOME</string>
+    <string name="Język">PL</string>
+    <string name="Tryb">Dark mode</string>
+    <string name="Rejestracja">Register</string>
+    <string name="Logowanie">Log in</string>
+    <string name="imgDescriptionLogo">img descriptiion</string>
+    <string name="hintNazwaUżytkownika">Username</string>
+    <string name="hintHasło">Password</string>
+    <string name="zapom_hasla">Forgot Password?</string>
+    <string name="email_nazwa_u_ytkownika">Email/Username</string>
+    <string name="nie_masz_has_a">Dont have an Account?</string>
+    <string name="czymaszjuzkonto">Already Have an Account?</string>
+    <string name="witaj">Hello :</string>
+    <string name="rejestra_przebieg_a_pomy_lnie">Registration was successful</string>
+    <string name="POTWIERDZENIE">Confirm</string>
+    <string name="Mapa">Maps</string>
+    <string name="mojeKonto">My Account</string>
+    <string name="Menu">Menu</string>
+
+    <string name="Konto">Account</string>
+    <string name="wylogowanie">Log out</string>
+    <string name="usuwaniekonta">Delete account</string>
+    <string name="aktulizowaniedanych">Update the data</string>
+    <string name="dodaj_ogłosznie">Add an announcement</string>
+    <string name="zatwerdzenie_ogloszenia">Confirm</string>
+    <string name="dodaj_ogloszenie">Add</string>
+    <string name="dodaj_zdjecie_ogloszenie">Add picture</string>
+    <string name="podaj_cene_wynajmu_jedna_noc">Enter the rental price</string>
+    <string name="podaj_tytu_og_szenia">Enter the Title</string>
+    <string name="cena_wynajmu">Rental price</string>
+    <string name="opsi_og_szenia">Description of the advertisement</string>
+    <string name="rezerwacja">Reservation</string>
+    <string name="cena">Price:</string>
+    <string name="logowanieNieprawidłowe">Logowanie nieprawidłowe</string>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RENTaHOME</string>
+    <string name="Język">ENG</string>
+    <string name="Tryb">Tryb Ciemny</string>
+    <string name="Rejestracja">Rejestracja</string>
+    <string name="Logowanie">Logowanie</string>
+    <string name="imgDescriptionLogo">opis zdjęcia</string>
+    <string name="hintNazwaUżytkownika">Nazwa użytkownika</string>
+    <string name="hintHasło">Hasło</string>
+    <string name="zapom_hasla">Zapomniałeś hasła?</string>
+    <string name="email_nazwa_u_ytkownika">Email/Nazwa użytkownika</string>
+    <string name="nie_masz_has_a">Nie masz konta?</string>
+    <string name="czymaszjuzkonto">Masz już konto ?</string>
+    <string name="witaj">Witaj :</string>
+    <string name="rejestra_przebieg_a_pomy_lnie">Rejestra przebiegła pomyślnie !</string>
+    <string name="POTWIERDZENIE">Potwierdzenie</string>
+    <string name="Mapa">Mapa</string>
+    <string name="mojeKonto">Moje konto</string>
+    <string name="Menu">Menu</string>
+
+    <string name="Konto">Konto</string>
+    <string name="wylogowanie">Wyloguj się</string>
+    <string name="usuwaniekonta">Usuń konto</string>
+    <string name="aktulizowaniedanych">Aktulizuj dane</string>
+    <string name="dodaj_ogłosznie">Dodaj ogłszenie</string>
+    <string name="zatwerdzenie_ogloszenia">Zatwerdzam</string>
+    <string name="dodaj_ogloszenie">Dodaj</string>
+    <string name="dodaj_zdjecie_ogloszenie">Dodaj zdjęcie</string>
+    <string name="podaj_cene_wynajmu_jedna_noc">Podaj cene wynajmu (jedna noc)</string>
+    <string name="podaj_tytu_og_szenia">Podaj tytuł ogłszenia</string>
+    <string name="cena_wynajmu">Cena wynajmu</string>
+    <string name="opsi_og_szenia">Opsi ogłszenia</string>
+    <string name="rezerwacja">Rezerwacja</string>
+    <string name="cena">Cena:</string>
+    <string name="logowanieNieprawidłowe">Logowanie nieprawidłowe</string>
+</resources>
